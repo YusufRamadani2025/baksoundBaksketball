@@ -172,6 +172,7 @@
       .textberjalan .textjalan{
         color: #E2E2B6;
         position: relative;
+        font-size: 2rem;
       }
       .textberjalan .textjalan::before {
         content: "";
